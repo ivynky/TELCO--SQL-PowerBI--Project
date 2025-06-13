@@ -1,6 +1,8 @@
 # Why Do Customers Leave? Customer Retention, Churn, and Financial Performance Analysis
 
 ## Data Source: https://www.kaggle.com/datasets/hassanelfattmi/why-do-customers-leave-can-you-spot-the-churners
+## You can view the powerBI Dashboard here: https://shorturl.at/w6XVL
+
 
 ## Dataset
 
